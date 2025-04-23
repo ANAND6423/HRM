@@ -1,0 +1,57 @@
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-17 02:29:03 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse-1609881668\testng-customsuite.xml
+
+2025-04-17 02:29:03 [main] INFO  Log - [HRM.qa.util.MyListener.onStart():20] Test Suite Started: Default test
+2025-04-17 02:29:03 [main] INFO  ExtentReportManager - Existing Extent Report deleted to overwrite.
+2025-04-17 02:29:03 [main] INFO  ExtentReportManager - Extent report initialized at: C:\Eclipse1\HRM.zip_expanded\HRM/test-output/ExtentReport.html
+2025-04-17 02:29:03 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-04-17 02:29:15 [main] INFO  Log - [HRM.qa.util.MyListener.onTestStart():27] Test Started: ValidateTitleTest
+2025-04-17 02:29:15 [main] INFO  ExtentReportManager - Created ExtentTest: ValidateTitleTest
+2025-04-17 02:29:15 [main] INFO  Log - [HRM.qa.util.MyListener.onTestSuccess():34] Test Passed: ValidateTitleTest
+2025-04-17 02:29:15 [main] INFO  ExtentReportManager - [PASS] Test Passed
+2025-04-17 02:29:23 [main] INFO  Log - [HRM.qa.util.MyListener.onTestStart():27] Test Started: ValidateLogoTest
+2025-04-17 02:29:23 [main] INFO  ExtentReportManager - Created ExtentTest: ValidateLogoTest
+2025-04-17 02:29:24 [main] INFO  Log - [HRM.qa.util.MyListener.onTestSuccess():34] Test Passed: ValidateLogoTest
+2025-04-17 02:29:24 [main] INFO  ExtentReportManager - [PASS] Test Passed
+2025-04-17 02:29:33 [main] INFO  Log - [HRM.qa.util.MyListener.onTestStart():27] Test Started: LoginAction
+2025-04-17 02:29:33 [main] INFO  ExtentReportManager - Created ExtentTest: LoginAction
+2025-04-17 02:29:34 [main] INFO  Log - [HRM.qa.util.MyListener.onTestSuccess():34] Test Passed: LoginAction
+2025-04-17 02:29:34 [main] INFO  ExtentReportManager - [PASS] Test Passed
+2025-04-17 02:29:34 [main] INFO  Log - [HRM.qa.util.MyListener.onFinish():61] Test Suite Finished: Default test
+2025-04-17 02:29:34 [main] INFO  ExtentReportManager - Flushed extent reports.
+2025-04-17 02:29:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@56382bc9: 58 ms
+2025-04-17 02:29:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@591a4f8e: 0 ms
+2025-04-17 02:29:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@18a25bbd: 8 ms
+2025-04-17 02:29:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5b7aa898: 6 ms
+2025-04-17 02:29:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4e642ee1: 5 ms
+2025-04-17 02:29:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29ebbdf4: 0 ms
